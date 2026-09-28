@@ -37,10 +37,4 @@ I used localStorage to store the blog posts so that the data does not disappear 
 Recording> 
 https://drive.google.com/file/d/1Mv6G5ZcxhnlJ95gmR5CJjqgI2SzK4Pq6/view?usp=sharing
 
-Sort blogs by title, author, or category
 
-Pagination for blog posts
-
-Store data using localStorage
-
-Responsive layout using Tailwind CSS
